@@ -51,8 +51,8 @@ Você pode iniciar o CRUD de carros de duas maneiras:
 
 Via Terminal:
 
-  ```shell
-  java -jar target/nome-do-arquivo.jar
+    ```shell
+    java -jar target/nome-do-arquivo.jar
 
 
 Via IDE Spring Boot:
